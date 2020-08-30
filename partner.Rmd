@@ -6,10 +6,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+1. My name : Armando Castillo.
+2. My Username: castle1010
+  
+3. Partner name: Binaya Shrestha
+4. Partner Username: BinayaS
 
+5. Binayas most recent commit ID is 4a51957b517e06fb0e2eaca32d6995ede280c0d2 and has
+the comment, "commit partner.html"
 
-My partner Binaya did a commit 0e729636a3ab18737af3108545e0ec465f0a6a80 and has the comment, add homework 1 files
-
-
-Partners name (me): Armando Castillo.
-Partners Username(me): castle1010
